@@ -2,14 +2,14 @@ package = "display"
 version = "scm-0"
 
 source = {
-   url = "git://github.com/szym/display",
+   url = "git://github.com/Fazaeefar/display",
    dir = "display"
 }
 
 description = {
    summary = "A browser-based graphics server with a Torch client.",
    detailed = [[A simple node.js server pushes images and charts to the browser.]],
-   homepage = "https://github.com/szym/display",
+   homepage = "https://github.com/Fazaeefar/display",
    license = "MIT"
 }
 
